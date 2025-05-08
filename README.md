@@ -15,3 +15,7 @@ These designs range from simple geometric shapes to more complex patterns, allow
 ## 🐍 Why Python Turtle?
 Python’s Turtle Graphics is a fun and intuitive way to learn programming concepts. By using simple commands, you can draw shapes, patterns, and even create animations. It’s a perfect tool for both **learning** and **teaching** Python, all while having fun with visual output!
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
