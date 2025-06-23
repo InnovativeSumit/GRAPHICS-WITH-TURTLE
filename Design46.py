@@ -1,0 +1,15 @@
+from turtle import *
+speed(10)
+for i in range(180):
+    fd(100)
+    rt(30)
+    fd(20)
+    lt(60)
+    fd(50)
+    rt(30)
+    penup()
+    goto(0,0)
+    pendown()
+    rt(2)
+hideturtle()
+done()
