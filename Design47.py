@@ -1,0 +1,15 @@
+from turtle import *
+speed("fastest")
+bgcolor("black")
+color("cyan")
+for i in range(180):
+    fd(100)
+    rt(30)
+    fd(20)
+    lt(60)
+    fd(50)
+    rt(30)
+    goto(0,0)
+    rt(2)
+hideturtle()
+done()
